@@ -1,6 +1,6 @@
 <a href="#quick-start">
-  <img src="https://raw.githubusercontent.com/viktorlkhh/mixolor/main/preview.png"
-    width="220" align="right" alt="Try it!" />
+  <img src="https://raw.githubusercontent.com/viktorlkhh/mixolor/main/pictures/example_1.png"
+    width="300" align="right" alt="Demo preview" />
 </a>
 
 # Mixolor
@@ -34,6 +34,10 @@ Mixolor is available as an ES module and works in Node.js and modern browsers.
 - terminal styling with ANSI colors, bold, italic, underline, gradients
 - find closest CSS color name for any color
 - zero dependencies, pure JavaScript
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/viktorlkhh/mixolor/main/pictures/example_2.png" width="600" alt="Terminal demo" />
+</p>
 
 ## Installation
 
@@ -77,7 +81,17 @@ node main.js
 Run the demo to see all features:
 
 ```bash
-node demo.js
+npm run demo
+```
+
+Or run individual examples:
+
+```bash
+node examples/basic.js
+node examples/gradients.js
+node examples/palettes.js
+node examples/accessibility.js
+node examples/terminal.js
 ```
 
 ## Documentation

@@ -11,7 +11,8 @@
     "src"
   ],
   "scripts": {
-    "start": "node demo.js",
+    "demo": "node examples/demo.js",
+    "start": "node examples/demo.js",
     "test": "node --test test/*.js"
   },
   "keywords": [
