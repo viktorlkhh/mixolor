@@ -1,9 +1,9 @@
+# Mixolor
+
 <a href="#quick-start">
   <img src="https://raw.githubusercontent.com/viktorlkhh/mixolor/main/pictures/example_1.png"
-    width="100" align="right" alt="Demo preview" />
+    width="300" align="right" alt="Demo preview" />
 </a>
-
-# Mixolor
 
 Mixolor is a lightweight, dependency-free color manipulation library for JavaScript.
 You can parse colors, convert between formats, generate palettes, blend colors and much more.
