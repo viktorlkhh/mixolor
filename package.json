@@ -1,0 +1,42 @@
+{
+  "name": "mixolor",
+  "version": "1.0.0",
+  "description": "Color manipulation library - gradients, palettes, blend modes, color blindness",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "start": "node demo.js",
+    "test": "node --test test/*.js"
+  },
+  "keywords": [
+    "color",
+    "gradient",
+    "palette",
+    "rgb",
+    "hex",
+    "hsl",
+    "blend",
+    "colorblind",
+    "accessibility",
+    "terminal"
+  ],
+  "author": "Viktor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viktorlkhh/mixolor.git"
+  },
+  "homepage": "https://github.com/viktorlkhh/mixolor",
+  "bugs": {
+    "url": "https://github.com/viktorlkhh/mixolor/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+export { Color, color } from './core/color.js'
+export { Gradient, gradient } from './core/gradient.js'
+export { Palette, palette } from './core/palette.js'
+export { simulate, isDistinguishable, types as blindnessTypes } from './core/blindness.js'
+export { namedColors, getNamedColor, isNamedColor } from './data/named-colors.js'
+export { style, fg, bg, styled, colorize, rainbow, gradient as textGradient, box } from './utils/terminal.js'
