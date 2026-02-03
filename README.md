@@ -2,7 +2,7 @@
 
 <a href="#quick-start">
   <img src="https://raw.githubusercontent.com/viktorlkhh/mixolor/main/pictures/example_1.png"
-    width="300" align="right" alt="Demo preview" />
+    width="200" align="right" alt="Demo preview" />
 </a>
 
 Mixolor is a lightweight, dependency-free color manipulation library for JavaScript.
