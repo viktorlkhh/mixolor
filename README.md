@@ -1,6 +1,6 @@
 <a href="#quick-start">
   <img src="https://raw.githubusercontent.com/viktorlkhh/mixolor/main/pictures/example_1.png"
-    width="250" align="right" alt="Demo preview" />
+    width="100" align="right" alt="Demo preview" />
 </a>
 
 # Mixolor
