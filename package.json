@@ -1,7 +1,7 @@
 {
   "name": "mixolor",
   "version": "1.0.0",
-  "description": "Color manipulation library - gradients, palettes, blend modes, color blindness",
+  "description": "Mixolor is a lightweight, dependency-free color manipulation library for JavaScript. You can parse colors, convert between formats, generate palettes, blend colors and much more.",
   "type": "module",
   "main": "src/index.js",
   "exports": {
