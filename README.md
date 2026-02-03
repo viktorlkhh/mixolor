@@ -16,7 +16,6 @@ Mixolor is available as an ES module and works in Node.js and modern browsers.
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Node](https://img.shields.io/badge/node-%3E%3D14-brightgreen)
-![Dependencies](https://img.shields.io/badge/dependencies-0-orange)
 
 ## Features
 
