@@ -1,5 +1,7 @@
 # Mixolor
 
+**Documentation:** [English](README.md) | [Espanol](docs/README_ES.md) | [Francais](docs/README_FR.md) | [中文](docs/README_ZH.md) | [Русский](docs/README_RU.md) | [Deutsch](docs/README_DE.md)
+
 <a href="#quick-start">
   <img src="https://raw.githubusercontent.com/viktorlkhh/mixolor/main/pictures/example_1.png"
     width="200" align="right" alt="Demo preview" />
